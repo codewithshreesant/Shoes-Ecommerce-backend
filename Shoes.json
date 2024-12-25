@@ -1,0 +1,182 @@
+[
+    {
+        "product_name": "Nike Air Max",
+        "price": 120,
+        "description": "Comfortable and stylish running shoes",
+        "rating": 4.5,
+        "image": "nike_air_max.jpg",
+        "stock": 50,
+        "category": "Running"
+    },
+    {
+        "product_name": "Adidas Ultraboost",
+        "price": 180,
+        "description": "High-performance running shoes with Boost cushioning",
+        "rating": 4.7,
+        "image": "adidas_ultraboost.jpg",
+        "stock": 30,
+        "category": "Running"
+    },
+    {
+        "product_name": "Puma Suede Classic",
+        "price": 70,
+        "description": "Iconic suede sneakers with a timeless design",
+        "rating": 4.3,
+        "image": "puma_suede_classic.jpg",
+        "stock": 40,
+        "category": "Casual"
+    },
+    {
+        "product_name": "Reebok Nano X",
+        "price": 130,
+        "description": "Versatile training shoes for all types of workouts",
+        "rating": 4.6,
+        "image": "reebok_nano_x.jpg",
+        "stock": 25,
+        "category": "Training"
+    },
+    {
+        "product_name": "Asics Gel-Kayano",
+        "price": 160,
+        "description": "Stability running shoes with Gel cushioning",
+        "rating": 4.4,
+        "image": "asics_gel_kayano.jpg",
+        "stock": 35,
+        "category": "Running"
+    },
+    {
+        "product_name": "New Balance 990v5",
+        "price": 175,
+        "description": "Premium running shoes with a classic design",
+        "rating": 4.5,
+        "image": "new_balance_990v5.jpg",
+        "stock": 20,
+        "category": "Running"
+    },
+    {
+        "product_name": "Vans Old Skool",
+        "price": 60,
+        "description": "Classic skate shoes with a durable design",
+        "rating": 4.2,
+        "image": "vans_old_skool.jpg",
+        "stock": 45,
+        "category": "Skateboarding"
+    },
+    {
+        "product_name": "Converse Chuck Taylor",
+        "price": 55,
+        "description": "Timeless high-top sneakers with a canvas upper",
+        "rating": 4.3,
+        "image": "converse_chuck_taylor.jpg",
+        "stock": 50,
+        "category": "Casual"
+    },
+    {
+        "product_name": "Under Armour HOVR Phantom",
+        "price": 140,
+        "description": "Responsive running shoes with HOVR cushioning",
+        "rating": 4.4,
+        "image": "under_armour_hovr_phantom.jpg",
+        "stock": 30,
+        "category": "Running"
+    },
+    {
+        "product_name": "Brooks Ghost 13",
+        "price": 130,
+        "description": "Smooth and balanced running shoes",
+        "rating": 4.6,
+        "image": "brooks_ghost_13.jpg",
+        "stock": 25,
+        "category": "Running"
+    },
+    {
+        "product_name": "Saucony Endorphin Speed",
+        "price": 160,
+        "description": "Lightweight and fast running shoes",
+        "rating": 4.7,
+        "image": "saucony_endorphin_speed.jpg",
+        "stock": 20,
+        "category": "Running"
+    },
+    {
+        "product_name": "Hoka One One Clifton 7",
+        "price": 130,
+        "description": "Cushioned running shoes with a smooth ride",
+        "rating": 4.5,
+        "image": "hoka_one_one_clifton_7.jpg",
+        "stock": 30,
+        "category": "Running"
+    },
+    {
+        "product_name": "Mizuno Wave Rider 24",
+        "price": 130,
+        "description": "Responsive running shoes with Wave technology",
+        "rating": 4.4,
+        "image": "mizuno_wave_rider_24.jpg",
+        "stock": 25,
+        "category": "Running"
+    },
+    {
+        "product_name": "Salomon Speedcross 5",
+        "price": 130,
+        "description": "Trail running shoes with aggressive grip",
+        "rating": 4.6,
+        "image": "salomon_speedcross_5.jpg",
+        "stock": 20,
+        "category": "Trail Running"
+    },
+    {
+        "product_name": "Merrell Moab 2",
+        "price": 100,
+        "description": "Durable hiking shoes with excellent traction",
+        "rating": 4.5,
+        "image": "merrell_moab_2.jpg",
+        "stock": 35,
+        "category": "Hiking"
+    },
+    {
+        "product_name": "Timberland PRO",
+        "price": 150,
+        "description": "Rugged work boots with superior protection",
+        "rating": 4.7,
+        "image": "timberland_pro.jpg",
+        "stock": 20,
+        "category": "Work"
+    },
+    {
+        "product_name": "Clarks Desert Boot",
+        "price": 130,
+        "description": "Classic chukka boots with a suede upper",
+        "rating": 4.4,
+        "image": "clarks_desert_boot.jpg",
+        "stock": 25,
+        "category": "Casual"
+    },
+    {
+        "product_name": "Dr. Martens 1460",
+        "price": 150,
+        "description": "Iconic leather boots with a durable design",
+        "rating": 4.6,
+        "image": "dr_martens_1460.jpg",
+        "stock": 20,
+        "category": "Casual"
+    },
+    {
+        "product_name": "Birkenstock Arizona",
+        "price": 100,
+        "description": "Comfortable sandals with a contoured footbed",
+        "rating": 4.5,
+        "image": "birkenstock_arizona.jpg",
+        "stock": 30,
+        "category": "Sandals"
+    },
+    {
+        "product_name": "Teva Hurricane XLT2",
+        "price": 70,
+        "description": "Versatile sandals with excellent traction",
+        "rating": 4.4,
+        "image": "teva_hurricane_xlt2.jpg",
+        "stock": 25,
+        "category": "Sandals"
+    }
+]

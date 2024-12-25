@@ -1,0 +1,264 @@
+{
+    "products": [
+        {
+            "category": "Running Shoes",
+            "productname": "Asics Gel-Kayano",
+            "price": 160,
+            "description": "Stability running shoes with gel cushioning.",
+            "rating": 4.6,
+            "image": "asics_gel_kayano.jpg",
+            "stock": 45,
+            "color": "Blue"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Brooks Ghost 13",
+            "price": 130,
+            "description": "Smooth and balanced running shoes.",
+            "rating": 4.7,
+            "image": "brooks_ghost_13.jpg",
+            "stock": 40,
+            "color": "Grey"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "New Balance Fresh Foam 1080v10",
+            "price": 150,
+            "description": "Comfortable running shoes with fresh foam cushioning.",
+            "rating": 4.5,
+            "image": "new_balance_fresh_foam_1080v10.jpg",
+            "stock": 35,
+            "color": "Black"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Saucony Endorphin Speed",
+            "price": 160,
+            "description": "Speedy running shoes with responsive cushioning.",
+            "rating": 4.8,
+            "image": "saucony_endorphin_speed.jpg",
+            "stock": 25,
+            "color": "White"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Hoka One One Clifton 7",
+            "price": 130,
+            "description": "Lightweight running shoes with maximum cushioning.",
+            "rating": 4.6,
+            "image": "hoka_one_one_clifton_7.jpg",
+            "stock": 30,
+            "color": "Blue"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Puma Speed 600",
+            "price": 120,
+            "description": "High-performance running shoes with ProFoam.",
+            "rating": 4.4,
+            "image": "puma_speed_600.jpg",
+            "stock": 50,
+            "color": "Red"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Reebok Floatride Run Fast",
+            "price": 140,
+            "description": "Lightweight running shoes with Floatride foam.",
+            "rating": 4.5,
+            "image": "reebok_floatride_run_fast.jpg",
+            "stock": 20,
+            "color": "Green"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Mizuno Wave Rider 24",
+            "price": 130,
+            "description": "Responsive running shoes with Wave technology.",
+            "rating": 4.6,
+            "image": "mizuno_wave_rider_24.jpg",
+            "stock": 30,
+            "color": "Yellow"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Nike Air Max 270",
+            "price": 150,
+            "description": "Stylish casual shoes with Air Max cushioning.",
+            "rating": 4.5,
+            "image": "nike_air_max_270.jpg",
+            "stock": 40,
+            "color": "Black"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Adidas NMD R1",
+            "price": 140,
+            "description": "Comfortable casual shoes with Boost cushioning.",
+            "rating": 4.4,
+            "image": "adidas_nmd_r1.jpg",
+            "stock": 35,
+            "color": "White"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Puma Suede Classic",
+            "price": 70,
+            "description": "Iconic casual shoes with suede upper.",
+            "rating": 4.3,
+            "image": "puma_suede_classic.jpg",
+            "stock": 50,
+            "color": "Red"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Reebok Club C 85",
+            "price": 75,
+            "description": "Classic casual shoes with leather upper.",
+            "rating": 4.4,
+            "image": "reebok_club_c_85.jpg",
+            "stock": 45,
+            "color": "Green"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "New Balance 574",
+            "price": 80,
+            "description": "Retro casual shoes with ENCAP cushioning.",
+            "rating": 4.5,
+            "image": "new_balance_574.jpg",
+            "stock": 40,
+            "color": "Blue"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Vans Authentic",
+            "price": 50,
+            "description": "Classic skate shoes with canvas upper.",
+            "rating": 4.3,
+            "image": "vans_authentic.jpg",
+            "stock": 60,
+            "color": "Black"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Converse One Star",
+            "price": 65,
+            "description": "Stylish casual shoes with suede upper.",
+            "rating": 4.4,
+            "image": "converse_one_star.jpg",
+            "stock": 35,
+            "color": "White"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Nike LeBron 18",
+            "price": 200,
+            "description": "High-performance basketball shoes with Max Air cushioning.",
+            "rating": 4.7,
+            "image": "nike_lebron_18.jpg",
+            "stock": 20,
+            "color": "Black"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Adidas Harden Vol. 4",
+            "price": 130,
+            "description": "Responsive basketball shoes with Lightstrike cushioning.",
+            "rating": 4.6,
+            "image": "adidas_harden_vol_4.jpg",
+            "stock": 25,
+            "color": "White"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Puma Clyde Hardwood",
+            "price": 120,
+            "description": "Stylish basketball shoes with ProFoam cushioning.",
+            "rating": 4.5,
+            "image": "puma_clyde_hardwood.jpg",
+            "stock": 30,
+            "color": "Red"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Under Armour HOVR Havoc 3",
+            "price": 110,
+            "description": "Durable basketball shoes with HOVR cushioning.",
+            "rating": 4.4,
+            "image": "under_armour_hovr_havoc_3.jpg",
+            "stock": 25,
+            "color": "Blue"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "New Balance OMN1S",
+            "price": 140,
+            "description": "High-performance basketball shoes with FuelCell cushioning.",
+            "rating": 4.6,
+            "image": "new_balance_omn1s.jpg",
+            "stock": 20,
+            "color": "Yellow"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Nike Air Zoom Pegasus",
+            "price": 120,
+            "description": "Lightweight running shoes with responsive cushioning.",
+            "rating": 4.5,
+            "image": "nike_air_zoom_pegasus.jpg",
+            "stock": 50,
+            "color": "Black"
+        },
+        {
+            "category": "Running Shoes",
+            "productname": "Adidas Ultraboost",
+            "price": 180,
+            "description": "High-performance running shoes with energy-returning boost.",
+            "rating": 4.7,
+            "image": "adidas_ultraboost.jpg",
+            "stock": 30,
+            "color": "White"
+        },
+        {
+            "category": "Basketball Shoes",
+            "productname": "Air Jordan 1",
+            "price": 150,
+            "description": "Iconic basketball shoes with premium leather and cushioning.",
+            "rating": 4.8,
+            "image": "air_jordan_1.jpg",
+            "stock": 20,
+            "color": "Red"
+        },
+        {
+            "category": "Basketball Shoes",
+            "productname": "Under Armour Curry 7",
+            "price": 140,
+            "description": "Durable basketball shoes with excellent traction and support.",
+            "rating": 4.6,
+            "image": "under_armour_curry_7.jpg",
+            "stock": 25,
+            "color": "Blue"
+        },
+        {
+            "category": "Casual Shoes",
+            "productname": "Vans Old Skool",
+            "price": 60,
+            "description": "Classic skate shoes with durable canvas and suede upper.",
+            "rating": 4.4,
+            "image": "vans_old_skool.jpg",
+            "stock": 40,
+            "color": "Black"
+        },
+        {
+            "category": "Casual Shoes",
+            "productname": "Converse Chuck Taylor",
+            "price": 55,
+            "description": "Timeless casual shoes with a canvas upper and rubber sole.",
+            "rating": 4.3,
+            "image": "converse_chuck_taylor.jpg",
+            "stock": 35,
+            "color": "White"
+        }
+    ]
+}
