@@ -5,7 +5,7 @@ import dotenv from "dotenv"
 import cookieParser from 'cookie-parser'
 import userRouter from "./routes/user.route.js"
 import productRouter from "./routes/product.route.js"
-
+import AdminRouter from "./routes/admin.route.js"
 dotenv.config({
     path:'./.env'
 })
@@ -22,5 +22,7 @@ app.use(express.json({limit:"10mb"}))
 app.use('/api/user', userRouter);
 
 app.use('/api/product', productRouter);
+
+app.use('/', AdminRouter)
 
 export {app}
